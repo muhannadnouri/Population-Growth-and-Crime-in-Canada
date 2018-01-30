@@ -1,6 +1,6 @@
 # Impact of Population Growth on Crime Rate in Canada
 
-This is a data analysis project that sucessfully analyzes the effect of population growth on a region's crime rate. Specfically, it looks into how growth of Canada's population has affected levels of crime in a positive or negative manner.
+This is a data analysis project that sucessfully analyzes the effect of population growth on a region's crime rate. Specifically, it looks into how growth of Canada's population has affected levels of crime in a positive or negative manner.
 
 ## Frameworks, Libraries & Technologies Utilized
 - OpenRefine
@@ -10,8 +10,11 @@ This is a data analysis project that sucessfully analyzes the effect of populati
 ## Contributing
 
 Arman Yazdanbod
+
 Fatem Khani
+
 Muhannad Nouri
+
 Zoya Younis
 
 ## License
