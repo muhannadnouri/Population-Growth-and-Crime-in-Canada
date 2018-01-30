@@ -16,8 +16,8 @@ Zoya Younis
 
 ## License
 
-Contains information in accordance with Statistics Canada - Open Licence Agreement
+Contains information in accordance with [Statistics Canada - Open Licence Agreement](https://www.statcan.gc.ca/eng/reference/licence)
 
-https://www.statcan.gc.ca/eng/reference/licence
+
 
 
